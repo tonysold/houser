@@ -15,5 +15,6 @@ for keeping track of where items are stored in a home.
 - Basic UI
 
 ## Setup
+```bash
 - git clone <repo>
 - docker compose up
